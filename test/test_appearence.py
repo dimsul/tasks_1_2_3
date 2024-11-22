@@ -1,6 +1,6 @@
 import pytest
 
-from solution import appearance
+from solutions import appearance
 
 
 test_data = (({'lesson': [1594663200, 1594666800],

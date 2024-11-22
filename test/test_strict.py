@@ -1,6 +1,6 @@
 import pytest
 
-from solution import strict
+from solutions import strict
 
 
 @strict
